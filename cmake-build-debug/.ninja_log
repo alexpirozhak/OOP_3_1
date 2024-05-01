@@ -1,0 +1,14 @@
+# ninja log v5
+10	4902	1714484246503918474	CMakeFiles/OOP_3_1.dir/Car.cpp.o	b16911ad8242c873
+2	182	1714606435108957139	build.ninja	3c2f7aec69c733bb
+6	7408	1714501140861245807	Google_test/CMakeFiles/Google_Tests_run.dir/test.cpp.o	a609aca2210071b1
+12	4858	1714484246455597989	CMakeFiles/OOP_3_1.dir/Bus.cpp.o	700efc17033b1460
+7	4837	1714484246442267531	CMakeFiles/OOP_3_1.dir/main.cpp.o	f6ae527044260b8f
+3	7294	1714501140726384174	Google_test/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	888651cb094aba64
+1	11835	1714501145279938146	Google_test/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	8816b51ac0a55462
+11836	11959	1714501145425674000	lib/libgtest.a	9dce67e66cb18433
+11959	12025	1714501145491778000	lib/libgtest_main.a	f284a0f3db5306ab
+4902	5132	1714484246753023073	OOP_3_1	1f8a894ef4e8803f
+11	1601	1714501263112050121	Google_test/CMakeFiles/Google_Tests_run.dir/__/Bus.cpp.o	3d68d6945f316d87
+12	1609	1714501263124673925	Google_test/CMakeFiles/Google_Tests_run.dir/__/Car.cpp.o	8ed09f688be03b0c
+1609	1781	1714501263298369132	Google_test/Google_Tests_run	b2c46140a8aea1f4
